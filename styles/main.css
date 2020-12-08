@@ -996,3 +996,7 @@ td {
         font-family: Georgia, serif;
       }
     
+      a:hover {
+        color: #5f3dc4;
+      }
+    
