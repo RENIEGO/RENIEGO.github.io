@@ -975,8 +975,12 @@ td {
   font-weight: bold;
 }
 
+      .main {
+        max-width: 750px;
+      }
+    
       .post-detail .post .post-content p {
-        font-size: 15px;
+        font-size: 14px;
       }
     
       .post-container .post .post-title {
