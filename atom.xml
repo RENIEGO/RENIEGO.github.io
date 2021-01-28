@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RENIEGO.github.io</id>
     <title>RENIEGO</title>
-    <updated>2020-12-09T09:49:14.263Z</updated>
+    <updated>2021-01-28T05:48:40.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://RENIEGO.github.io"/>
     <link rel="self" href="https://RENIEGO.github.io/atom.xml"/>
     <logo>https://RENIEGO.github.io/images/avatar.png</logo>
     <icon>https://RENIEGO.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, RENIEGO</rights>
+    <rights>All rights reserved 2021, RENIEGO</rights>
     <entry>
         <title type="html"><![CDATA[阿尔克那]]></title>
         <id>https://RENIEGO.github.io/post/阿尔克那/</id>
